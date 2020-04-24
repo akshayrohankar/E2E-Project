@@ -35,6 +35,7 @@ public class validateTitle extends base{
 		LandingPage l=new LandingPage(driver);
 		//compare the text from the browser with actual text.- Error..fixed for now
 		Assert.assertEquals(l.getTitle().getText(), "FEATURED COURSES");
+		//Assert.assertEquals(l.getTitle().getText(), "FEATURED COURSES123"); --This fail test case and takes Screenshot 
 		 log.info("Successfully validated Text message");
 		 System.out.println("Test completed");	
 		}
