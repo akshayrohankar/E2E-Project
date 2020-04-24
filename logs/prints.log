@@ -1,0 +1,5 @@
+00:29:26.086 [main] INFO  resources.base - Restrcited User
+00:29:34.866 [main] INFO  resources.base - Non restricted user
+00:29:40.735 [main] INFO  resources.base - Driver is initialized
+00:29:43.287 [main] INFO  resources.base - Navigated to Home page
+00:29:50.734 [main] INFO  resources.base - Navigation Bar is displayed
