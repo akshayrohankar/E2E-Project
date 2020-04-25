@@ -22,7 +22,7 @@
 		<classes>
 			<class name="Academy.AppTest" />
 		</classes>
-	</test>
+	</test> 
 	
 	<test name="Validating navigation Bar">
 		<classes>
