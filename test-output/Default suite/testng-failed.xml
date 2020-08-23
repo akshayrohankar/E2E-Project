@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Academy.validateTitle">
+      <class name="practice.AmazonIPhone">
         <methods>
-          <include name="validateAppTitle"/>
-          <include name="initialize"/>
+          <include name="filterPrice"/>
           <include name="teardown"/>
+          <include name="initialize"/>
         </methods>
-      </class> <!-- Academy.validateTitle -->
+      </class> <!-- practice.AmazonIPhone -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
