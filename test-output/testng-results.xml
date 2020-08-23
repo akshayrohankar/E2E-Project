@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14666" started-at="2020-08-23T04:32:42 IST" finished-at="2020-08-23T04:32:57 IST">
+  <suite name="Default suite" duration-ms="15648" started-at="2020-08-23T20:40:02 IST" finished-at="2020-08-23T20:40:17 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14666" started-at="2020-08-23T04:32:42 IST" finished-at="2020-08-23T04:32:57 IST">
+    <test name="Default test" duration-ms="15648" started-at="2020-08-23T20:40:02 IST" finished-at="2020-08-23T20:40:17 IST">
       <class name="practice.AmazonIPhone">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:practice.AmazonIPhone@17695df3]" name="initialize" is-config="true" duration-ms="7482" started-at="2020-08-23T04:32:42 IST" finished-at="2020-08-23T04:32:50 IST">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:practice.AmazonIPhone@17695df3]" name="initialize" is-config="true" duration-ms="7917" started-at="2020-08-23T20:40:02 IST" finished-at="2020-08-23T20:40:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="filterPrice()[pri:0, instance:practice.AmazonIPhone@17695df3]" name="filterPrice" duration-ms="6108" started-at="2020-08-23T04:32:50 IST" finished-at="2020-08-23T04:32:56 IST">
+        <test-method status="PASS" signature="filterPrice()[pri:0, instance:practice.AmazonIPhone@17695df3]" name="filterPrice" duration-ms="6274" started-at="2020-08-23T20:40:09 IST" finished-at="2020-08-23T20:40:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- filterPrice -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:practice.AmazonIPhone@17695df3]" name="teardown" is-config="true" duration-ms="981" started-at="2020-08-23T04:32:56 IST" finished-at="2020-08-23T04:32:57 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:practice.AmazonIPhone@17695df3]" name="teardown" is-config="true" duration-ms="1421" started-at="2020-08-23T20:40:16 IST" finished-at="2020-08-23T20:40:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
